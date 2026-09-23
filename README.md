@@ -58,7 +58,7 @@ The project includes tests for:
 .
 ├── README.md
 ├── network/
-│   └── network-topology.png
+│   └── └── LinkedIn_Kurumsal_OnPrem_Topoloji_Simetrik_Final.png
 ├── docs/
 │   ├── ip-plan.md
 │   ├── vm-inventory.md
