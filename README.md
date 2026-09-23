@@ -9,6 +9,7 @@ This project demonstrates the design and implementation of a segmented corporate
 The main objective was to separate network segments, control inter-network traffic through firewall policies, provide centralized identity and network services, and test secure file transfer and mail services.
 
 ## Architecture
+![Corporate Network Topology](network/LinkedIn_Kurumsal_OnPrem_Topoloji_Simetrik_Final.png)
 
 The laboratory network contains the following logical segments:
 
